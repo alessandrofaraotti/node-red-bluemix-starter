@@ -1,9 +1,9 @@
-Node-RED IBM Cloud Starter Application
-====================================
+Virtual TjBot on Node-RED IBM Cloud Starter Application
+========================================================
 
 ### Node-RED on IBM Cloud
 
-This repository is an example Node-RED application that can be deployed into
+This repository is an example Node-RED application, including the Virtual TjBot pluging, that can be deployed into
 IBM Cloud with only a couple clicks. Try it out for yourself right now by clicking:
 
 [![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/alessandrofaraotti/node-red-bluemix-starter.git)
