@@ -17,7 +17,7 @@
         "node-red-node-cf-cloudant":"0.x",
         "node-red-contrib-scx-ibmiotapp":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
-        "node-red-contrib-virtual-tjbot":"0.1.5"
+        "node-red-contrib-virtual-tjbot":"https://github.com/Lotti/node-red-contrib-virtual-tjbot"
     },
     "scripts": {
         "start": "node --max-old-space-size=160 index.js --settings ./bluemix-settings.js -v"
